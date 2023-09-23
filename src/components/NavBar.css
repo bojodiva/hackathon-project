@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-image: linear-gradient();
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; */
+}
+
+.navbar{
+    border-bottom: 1px solid #443a5f;
+}
+
+.navbar--section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* margin: 20px; */
+    width: 85%;
+    margin: 20px auto;
+}
+
+div div h3{
+    color: white;
+}
+
+
+
+div div h3 span{
+   color: #d434fe;
+}
+
+div div button{
+    background-image: linear-gradient(to right, #d434fe, #903aff);
+    padding: 10px 30px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    color: white;
+}
+
+.btn--register{
+    display: flex;
+    flex-direction: column;
+    /* flex: 3; */
+    align-items: flex-end;
+
+}
+
+.navlinks{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   color: white;
+}
