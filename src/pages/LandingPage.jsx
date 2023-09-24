@@ -149,6 +149,7 @@ a chance to win a Big prize</p>
                     <div className="timeline--number">
                         <p>1</p>
                     </div>
+                    <div></div>
                     <div>
                         <h3>November 18 2023</h3>
                     </div>
